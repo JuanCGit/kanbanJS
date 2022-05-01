@@ -6,13 +6,13 @@
 
 <script>
 export default {
-  name: 'Kan-About',
-}
+  name: "Kan-About",
+};
 </script>
 
 <style lang="scss" scoped>
 .about {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 65px;
+  padding-bottom: 65px;
 }
 </style>
