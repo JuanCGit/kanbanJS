@@ -11,7 +11,7 @@ const routes = [
     path: '/about',
     name: 'kan-about',
     component: () => import('../views/About.vue')
-  }, 
+  },
   {
     path: '/boards',
     name: 'kan-boards',

@@ -1,17 +1,17 @@
 <template>
-  <div class="container home">
-    <h3>You're in home</h3>
-  </div>
+    <div class="container tasks">
+        <h3>You're in tasks</h3>
+    </div>
 </template>
 
 <script>
 export default {
-  name: "Kan-Home",
-};
+    
+}
 </script>
 
 <style lang="scss" scoped>
-.home {
+.tasks {
   padding-top: 65px;
   padding-bottom: 65px;
 }
